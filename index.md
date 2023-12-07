@@ -9,3 +9,6 @@
 ``` java
 System.out.print("Hello, world!");
 ```
+- [x] Usain bolt is the world fastest runner
+- [x] speed of light is 3*(10^8) m/s
+- [ ] bugatti is fastest car in the world
